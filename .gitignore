@@ -1,0 +1,10 @@
+venv311/
+__pycache__/
+uploads/
+.deepface/
+
+*.pyc
+*.h5
+
+api_requests.log
+requests_log.csv
